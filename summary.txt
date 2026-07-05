@@ -1,0 +1,14 @@
+
+SALES SUMMARY
+
+Total Sales : 15900
+
+Average Sales : 1325.00
+
+Highest Sale : 2300
+
+Lowest Sale : 600
+
+Best Category : Electronics
+
+Best Month : 2025-06
